@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015-05-30 15:00:19.619.cpp,C:\Users\ranji_000\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\ranji_000\Documents\RAD Studio\Projects\WSKAZNIK\wskaz.cpp</Transaction>
+    <Transaction>2015-05-30 15:00:19.620.h,C:\Users\ranji_000\Documents\RAD Studio\Projects\Unit1.h=C:\Users\ranji_000\Documents\RAD Studio\Projects\WSKAZNIK\wskaz.h</Transaction>
+    <Transaction>2015-05-30 15:00:19.620.dfm,C:\Users\ranji_000\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\ranji_000\Documents\RAD Studio\Projects\WSKAZNIK\wskaz.dfm</Transaction>
+    <Transaction>2015-05-30 15:00:24.704.cbproj,C:\Users\ranji_000\Documents\RAD Studio\Projects\Project2.cbproj=C:\Users\ranji_000\Documents\RAD Studio\Projects\WSKAZNIK\prwskaz.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
